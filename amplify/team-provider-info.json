@@ -1,0 +1,19 @@
+{
+    "vue": {
+        "awscloudformation": {
+            "AuthRoleName": "vueserverlessproject-20190309185816-authRole",
+            "UnauthRoleArn": "arn:aws:iam::875903813002:role/vueserverlessproject-20190309185816-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::875903813002:role/vueserverlessproject-20190309185816-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "vueserverlessproject-20190309185816-deployment",
+            "UnauthRoleName": "vueserverlessproject-20190309185816-unauthRole",
+            "StackName": "vueserverlessproject-20190309185816",
+            "StackId": "arn:aws:cloudformation:us-east-1:875903813002:stack/vueserverlessproject-20190309185816/ddd44110-4251-11e9-8190-12545315cab6"
+        },
+        "categories": {
+            "auth": {
+                "cognito33b39f42": {}
+            }
+        }
+    }
+}

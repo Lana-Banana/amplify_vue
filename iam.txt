@@ -1,0 +1,33 @@
+안녕하세요? 
+
+ID가 3002(으)로 끝나는 Amazon Web Services 계정에 대한 AWS Management Console 액세스 권한이 부여되었습니다. 아래 제공된 로그인 정보를 사용하여 시작할 수 있습니다.
+
+-------------------------------------------------
+
+로그인 URL: https://875903813002.signin.aws.amazon.com/console
+사용자 이름: amplify_test_vue_1
+
+초기 로그인 암호는 AWS 계정 관리자가 이 이메일과 별도로 제공합니다. 
+
+-------------------------------------------------
+
+프로필을 생성하여 AWS와 연결을 유지하십시오. https://pages.awscloud.com/IAM-communication-preferences.html
+
+감사합니다,
+AWS 계정 관리자 드안녕하세요? 
+
+ID가 3002(으)로 끝나는 Amazon Web Services 계정에 대한 AWS Management Console 액세스 권한이 부여되었습니다. 아래 제공된 로그인 정보를 사용하여 시작할 수 있습니다.
+
+-------------------------------------------------
+
+로그인 URL: https://875903813002.signin.aws.amazon.com/console
+사용자 이름: amplify_test_vue2
+
+초기 로그인 암호는 AWS 계정 관리자가 이 이메일과 별도로 제공합니다. 
+
+-------------------------------------------------
+
+프로필을 생성하여 AWS와 연결을 유지하십시오. https://pages.awscloud.com/IAM-communication-preferences.html
+
+감사합니다,
+AWS 계정 관리자 드림

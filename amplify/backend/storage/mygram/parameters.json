@@ -1,0 +1,13 @@
+{
+    "bucketName": "vueserverlessproject4e37c2fb623242329718e44a6bf7c655",
+    "authPolicyName": "s3_amplify_50e26262",
+    "unauthPolicyName": "s3_amplify_50e26262",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "authPermissions": "rw",
+    "unauthPermissions": ""
+}

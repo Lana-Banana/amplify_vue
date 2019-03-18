@@ -1,0 +1,20 @@
+{
+    "appName": "vueserverlessproject",
+    "roleName": "pinpointLambdaRole11998114",
+    "cloudWatchPolicyName": "cloudWatchPolicy11998114",
+    "pinpointPolicyName": "pinpointPolicy11998114",
+    "authPolicyName": "pinpoint_amplify_11998114",
+    "unauthPolicyName": "pinpoint_amplify_11998114",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "authRoleArn": {
+        "Fn::GetAtt": [
+            "AuthRole",
+            "Arn"
+        ]
+    }
+}
